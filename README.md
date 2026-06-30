@@ -11,8 +11,9 @@ An Arduino-based 4-bank MIDI controller with 4 MIDI CC knobs and 4 push buttons,
 - 1 breadboard
 - A lot of jumper wires
 
-## How It Works
+<img width="2400" height="1084" alt="schematic_diagram" src="https://github.com/user-attachments/assets/94bdd285-b83f-495f-84d8-92ccff8168f8" />
 
+## How It Works
 
 The system relies on the "Learn MIDI" / "Pickup (Soft Takeover)" functionality available in most modern DAWs, including FL Studio.
 
